@@ -1,2 +1,2 @@
-# Dare DATA-SCIENCDE-THINGS
+# Dare DATA-SCIENCE-THINGS
  Data Science Project
