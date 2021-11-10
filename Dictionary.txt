@@ -1,0 +1,33 @@
+# DATA SCIENCE
+
+# DICTIONARY
+# EX1
+Cars = {'Tesla': 'US', 'Ford': 'US', 'Toyota': 'Japan', 'KIA': 'South Korea',
+        'Benz': 'Germany', 'Audi': 'Germany', 'Peugeot': 'France', 'Renault': 'France', 'Jaguar': 'Britain',
+        'Bentley': 'Britain'}
+
+
+print(Cars['Tesla'])
+
+
+
+
+# EX2
+Cars = {'Tesla': 'US', 'Ford': 'US', 'Toyota': 'Japan', 'KIA': 'South Korea',
+        'Benz': 'Germany', 'Audi': 'Germany', 'Peugeot': 'France', 'Renault': 'France', 'Jaguar': 'Britain',
+        'Bentley': 'Britain'}
+
+
+for key, value in Cars.items():
+    print(key, value)
+
+
+print(Cars.keys())
+print(Cars.values())
+
+
+for key in Cars:
+    print(key)
+
+for value in Cars.items():
+    print(value)

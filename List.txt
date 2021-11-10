@@ -1,0 +1,10 @@
+# DATA SCIENCE
+
+# LIST
+# EX1
+
+Courses = ['Biology', 'Chemistry', 'Physics', 'Mathematics', 'Geography', 'History', 'Agricultural_Science', 'Economics']
+
+print(Courses)
+print(Courses[0:4])
+print(len(Courses))
